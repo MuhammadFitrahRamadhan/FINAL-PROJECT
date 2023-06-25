@@ -22,5 +22,5 @@ Daftar library yang digunakan dan fungsinya antara lain :
 9. Numpy : Berfungsi untuk melakukan konversi gambar menjadi array
 10. Matplotlib : Berfungsi untuk menampilkan gambar, lalu diubah menjadi array.
 
-Link Dataset :
+Link Dataset : https://drive.google.com/drive/folders/1BSK8saOrnr2eU1nJ3YAKz1lCPsOItYPg?usp=drive_link
 
