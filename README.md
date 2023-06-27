@@ -6,8 +6,8 @@ Anggota Kelompok :
 1. Muhammad Fitrah Ramadhan F55120081
 2. Zulfikar Alip Takasihaeng F55120082
 3. Mariani F55120080
-4. Jumaita Ono F55120088
-5. Ratu Iin Seniwaty F55120089
+4. Jumaita Ono F55120083
+5. Ratu Iin Seniwaty F55120088
 
 Penjelasan Kodingan :
 Daftar library yang digunakan dan fungsinya antara lain :
